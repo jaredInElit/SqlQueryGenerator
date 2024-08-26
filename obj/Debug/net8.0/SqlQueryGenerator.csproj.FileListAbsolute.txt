@@ -1,0 +1,14 @@
+C:\Users\jboschmann\SqlQueryGenerator\bin\Debug\net8.0\SqlQueryGenerator.exe
+C:\Users\jboschmann\SqlQueryGenerator\bin\Debug\net8.0\SqlQueryGenerator.deps.json
+C:\Users\jboschmann\SqlQueryGenerator\bin\Debug\net8.0\SqlQueryGenerator.runtimeconfig.json
+C:\Users\jboschmann\SqlQueryGenerator\bin\Debug\net8.0\SqlQueryGenerator.dll
+C:\Users\jboschmann\SqlQueryGenerator\bin\Debug\net8.0\SqlQueryGenerator.pdb
+C:\Users\jboschmann\SqlQueryGenerator\obj\Debug\net8.0\SqlQueryGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jboschmann\SqlQueryGenerator\obj\Debug\net8.0\SqlQueryGenerator.AssemblyInfoInputs.cache
+C:\Users\jboschmann\SqlQueryGenerator\obj\Debug\net8.0\SqlQueryGenerator.AssemblyInfo.cs
+C:\Users\jboschmann\SqlQueryGenerator\obj\Debug\net8.0\SqlQueryGenerator.csproj.CoreCompileInputs.cache
+C:\Users\jboschmann\SqlQueryGenerator\obj\Debug\net8.0\SqlQueryGenerator.dll
+C:\Users\jboschmann\SqlQueryGenerator\obj\Debug\net8.0\refint\SqlQueryGenerator.dll
+C:\Users\jboschmann\SqlQueryGenerator\obj\Debug\net8.0\SqlQueryGenerator.pdb
+C:\Users\jboschmann\SqlQueryGenerator\obj\Debug\net8.0\SqlQueryGenerator.genruntimeconfig.cache
+C:\Users\jboschmann\SqlQueryGenerator\obj\Debug\net8.0\ref\SqlQueryGenerator.dll
