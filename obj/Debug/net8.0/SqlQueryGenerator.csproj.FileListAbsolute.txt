@@ -12,3 +12,4 @@ C:\Users\jboschmann\SqlQueryGenerator\obj\Debug\net8.0\refint\SqlQueryGenerator.
 C:\Users\jboschmann\SqlQueryGenerator\obj\Debug\net8.0\SqlQueryGenerator.pdb
 C:\Users\jboschmann\SqlQueryGenerator\obj\Debug\net8.0\SqlQueryGenerator.genruntimeconfig.cache
 C:\Users\jboschmann\SqlQueryGenerator\obj\Debug\net8.0\ref\SqlQueryGenerator.dll
+C:\Users\jboschmann\SqlQueryGenerator\obj\Debug\net8.0\SqlQueryGenerator.sourcelink.json

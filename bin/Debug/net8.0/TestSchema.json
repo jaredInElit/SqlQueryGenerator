@@ -1,0 +1,31 @@
+{
+  "schemas": [
+    {
+      "name": "AdvertiserSchema",
+      "tables": [
+        {
+          "name": "AdvertiserTable",
+          "columns": [
+            { "name": "id", "dataType": "INT", "isJson": false },
+            { "name": "name", "dataType": "STRING", "isJson": false },
+            { "name": "data", "dataType": "JSON", "isJson": true }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AnalyticsSchema",
+      "tables": [
+        {
+          "name": "AnalyticsTable",
+          "columns": [
+            { "name": "sessionId", "dataType": "STRING", "isJson": false },
+            { "name": "timestamp", "dataType": "DATETIME", "isJson": false },
+            { "name": "event", "dataType": "STRING", "isJson": false },
+            { "name": "properties", "dataType": "JSON", "isJson": true }
+          ]
+        }
+      ]
+    }
+  ]
+}
